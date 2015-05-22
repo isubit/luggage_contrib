@@ -15,6 +15,7 @@ dependencies[] = date_views
 dependencies[] = diff
 dependencies[] = email
 dependencies[] = entity
+dependencies[] = entityreference (1.1)
 dependencies[] = entity_token
 dependencies[] = environment_indicator
 dependencies[] = features
