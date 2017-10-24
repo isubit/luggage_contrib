@@ -18,5 +18,5 @@ function luggage_contrib_enable() {
       'locked' => 0,
     ))->execute();
 
-  variable_set('date_format_friendly', 'l, F j, Y - g:ia');
+  variable_set('date_format_friendly', 'l, F j, Y - g:i a');
 }
